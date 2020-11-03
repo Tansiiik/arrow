@@ -62,7 +62,7 @@
 				controls.enableDamping = true;
 
 				// scene itself
-				scene = new THREE.Scene();
+				scene = new THREE.Scene();шпик 2 шт. адрес малыш худайбердина 160. доверенность 
 				scene.background = new THREE.Color( 0xD3D3D3 );
 
 				scene.add( ambientLight );
